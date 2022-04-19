@@ -1,5 +1,5 @@
 {
-    "name": "Maqueen 6. Sensor de Luz y Sonido",
+    "name": "Maqueen 6. Sensor de Luz",
     "description": "",
     "dependencies": {
         "core": "*",
